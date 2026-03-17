@@ -4,12 +4,10 @@ Copyright (c) 2026 Vicentte Felipe
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted.
 
-THE MAINTENANCE OBLIGATION (THE VICENTTE DUTY):
+THE MAINTENANCE OBLIGATION:
 Unlike the standard 0BSD license, this software is NOT provided "as-is." 
-The Author(s) and/or Distributor(s) accept an affirmative obligation to:
-1. Review and address reported technical defects and bugs.
-2. Use best efforts to provide fixes for issues that impair the software’s 
-   intended functionality.
+The Original Author(s) and/or those who explicitly claim to provide a supported version of this software accept an affirmative obligation to:
+​Review and address reported technical defects.
 
 LIMITATION OF LIABILITY:
 THE AUTHOR(S) SHALL NOT BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR 
