@@ -1,0 +1,20 @@
+Modified 0BSD License (Maintenance-Required)
+Copyright (c) 2026 Vicentte Felipe
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE MAINTENANCE OBLIGATION (THE VICENTTE DUTY):
+Unlike the standard 0BSD license, this software is NOT provided "as-is." 
+The Author(s) and/or Distributor(s) accept an affirmative obligation to:
+1. Review and address reported technical defects and bugs.
+2. Use best efforts to provide fixes for issues that impair the software’s 
+   intended functionality.
+
+LIMITATION OF LIABILITY:
+THE AUTHOR(S) SHALL NOT BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR 
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, 
+DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER 
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR 
+PERFORMANCE OF THIS SOFTWARE. THE REMEDY IS LIMITED TO THE MAINTENANCE 
+OBLIGATIONS STATED ABOVE.
